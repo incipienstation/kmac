@@ -1,0 +1,39 @@
+<div class="content_body_ty1">
+          <div class="us_label_wrap">
+    <h2 class="us_label ">
+      <span class="us_label_box">BEST</span>
+      "워라벨은 굿, 엘무원의 삶을 누리고 싶다면 여기로...! 다만 월급은 보장 못함"
+    </h2>
+  </div>
+
+  <dl class="tc_list">
+    <dt class="merit">장점</dt>
+    <dd class="df1">
+      <span>주 40시간 근무 명확하고, PC-Off제로 인해 야근 자체가 없음.<br>AR들에게 리스크가 큰 일을 맡기지 않으며, 그로 인해 업무상 책임질 일이 적음.<br><br>공무원계의 공무직이라 생각하면 될 듯</span>
+    </dd>
+    <dt class="disadvantages">단점</dt>
+    <dd class="df1">
+      <span>아무리 AR이라지만 1일 식대가 4천원인 것이 말이 됩니까.</span>
+    </dd>
+    <dt class="df_tit">경영진에 바라는 점</dt>
+    <dd class="df1">
+      <span>촉탁이나 영직, AR들 복리후생제도 좀 늘려주세요 밥값이 4천원이 뭡니까 ㅜㅜ</span>
+    </dd>
+  </dl>
+    <p class="etc_box">이 기업은 1년 후
+      <strong>비슷</strong>할 것이다.
+    </p>
+
+    <p class="txt recommend etc_box">이 기업을 <em>추천</em> 합니다!</p>
+
+
+        <div class="btn_group">
+  <a class="btn_help helpful btnval_on" data-review-helpful-id="3257976"><span class="blt"></span>도움이 돼요
+    <span data-review-helpful-count-id="3257976" data-original="0" class="notranslate"> 0 </span>
+  </a>
+  <a class="btn_share" onclick="var data = fbShare(&quot;http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.jobplanet.co.kr%2Fcompanies%2F63857%2Freviews%3Futm_source%3Dfacebook%26utm_medium%3Dreferral%26utm_campaign%3Dref_company_review&quot;,$(window), 600, 255); fbWindow=window.open(data[&quot;url&quot;], &quot;fbWindow&quot;, data[&quot;config&quot;]);">
+    <span class="blt"></span>페이스북에 공유
+  </a>
+  <button style="display: inline;" class="btn_report report btn_linktxt" data-review-report-id="3257976">신고하기</button>
+</div>
+      </div>
