@@ -1,6 +1,6 @@
-from noun_extractor import *
+from text_miner import *
 
-path_set = ['./data/test_set0.txt', './data/test_set1.txt']
+path_set = ['./input/input.txt']
 
 f = open('./output/output.txt', 'w', encoding="utf-8")
 for path in path_set:
