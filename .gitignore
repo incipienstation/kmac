@@ -2,3 +2,6 @@
 
 env
 venv
+
+text-mining/input
+text-mining/output

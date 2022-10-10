@@ -7,9 +7,9 @@ def parse_data(path):
     noun_extractor = LRNounExtractor_v2(verbose=True)
     nouns = noun_extractor.train_extract(sentences)
 
-    remove_word_list = ['수', '것', '등', '안', '못', '대']
+    remove_word_list = ['수', '것', '등', '안', '못', '대', '경우', '위', '아직', '비', '너무', '많이']
     for word in remove_word_list:
-        nouns.pop(word)
+        nouns.pop(word, None)
 
     res = ""
     for key in nouns:

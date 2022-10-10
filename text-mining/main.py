@@ -1,9 +1,9 @@
 from text_miner import *
 
-path_set = ['./input/input.txt']
+src_list = ['advantages.txt', 'disadvantages.txt']
 
-f = open('./output/output.txt', 'w', encoding="utf-8")
-for path in path_set:
-    f.write(parse_data(path))
+for src in src_list:
+    f = open('./output/' + src, 'w', encoding="utf-8")
+    f.write(parse_data('./input/' + src))
+    f.close()
 
-f.close()
